@@ -1,0 +1,4 @@
+../Experiments\am\DNN\log
+CNTKCommandTrainInfo: train : 100
+CNTKCommandTrainInfo: CNTKNoMoreCommands_Total : 100
+CNTKCommandTrainBegin: train
